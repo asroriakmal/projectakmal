@@ -1,5 +1,5 @@
 <header>
-    <h1>Halo, Saya Budi 👋</h1>
+    <h1>Halo, Bruno 👋</h1>
     <p>Selamat datang di website sederhana saya.</p>
 </header>
 
@@ -28,5 +28,5 @@
 </main>
 
 <footer>
-    <p>&copy; 2026 Budi. Dibuat dengan ❤️ dan HTML & CSS.</p>
+    <p>&copy; 2026 bruno. Dibuat dengan ❤️ dan HTML & CSS.</p>
 </footer>
