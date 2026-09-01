@@ -1,4 +1,4 @@
-<h1 align="center">Hai, saya Nama Kamu 👋</h1>
+<h1 align="center">Hai, saya akmal👋</h1>
 <h3 align="center">Software Developer | Web Developer | Data Enthusiast</h3>
 
 <p align="center">
@@ -44,7 +44,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=default" alt="GitHub Streak" height="165"/>
 </p>
 
-> Ganti `USERNAME_KAMU` dengan username GitHub kamu.
+> Ganti `USERNAME_akmal` dengan username GitHub akmal.
 
 ---
 
