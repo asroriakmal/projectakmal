@@ -44,7 +44,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=default" alt="GitHub Streak" height="165"/>
 </p>
 
-> Ganti `USERNAME_akmal` dengan username GitHub akmal.
+> Ganti `akmal` dengan username GitHub akmal.
 
 ---
 
