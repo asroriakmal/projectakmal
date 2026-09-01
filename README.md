@@ -13,8 +13,8 @@
 - 🌱 Sedang memperdalam **[teknologi/skill yang dipelajari]**
 - 👯 Terbuka untuk kolaborasi di **[jenis proyek]**
 - 💬 Tanya saya soal **[topik keahlian]**
-- 📫 Cara menghubungi saya: **[email kamu]**
-- ⚡ Fun fact: **[fakta unik tentang kamu]**
+- 📫 Cara menghubungi saya: **[email akmal]**
+- ⚡ Fun fact: **[fakta unik tentang akmal]**
 
 ---
 
